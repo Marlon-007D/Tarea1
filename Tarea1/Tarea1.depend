@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1692670393 source:c:\users\demera\desktop\codeblock\proyectoculturaambiental\main.cpp
+	<iostream>
+	"Procesos.h"
+
+1692676452 c:\users\demera\desktop\codeblock\proyectoculturaambiental\procesos.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1692670393 source:c:\users\demera\desktop\proyectoculturaambiental\main.cpp
+	<iostream>
+	"Procesos.h"
+
+1699731462 c:\users\demera\desktop\proyectoculturaambiental\procesos.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
